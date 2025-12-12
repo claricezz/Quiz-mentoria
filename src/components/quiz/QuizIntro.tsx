@@ -57,7 +57,7 @@ export function QuizIntro() {
 
                         {/* MINI-BIO DE AUTORIDADE */}
                         <p className="text-sm text-[#8C7B65] max-w-md mx-auto">
-                            Criadora do método que ajuda mulheres comuns a construírem renda real no digital,
+                            Ajuadando pessoas comuns a construírem renda real no digital,
                             com clareza, leveza e passos simples — sem promessas milagrosas.
                         </p>
                     </div>

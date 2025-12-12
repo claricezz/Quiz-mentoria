@@ -192,7 +192,7 @@ export function QuizResult() {
     leading-tight
     whitespace-normal
   "
-                    onClick={() => window.open('#comprar', '_blank')}
+                    onClick={() => window.open('https://pay.kiwify.com.br/SKxKXUd?afid=vJmpJUzT', '_blank')}
                 >
                     <div className="flex items-center justify-center gap-2 ">
                         <ShoppingBag className="min-w-[20px] min-h-[20px]" />
@@ -216,7 +216,7 @@ export function QuizResult() {
               <Button 
                 variant="outline"
                 className="border-primary text-primary hover:bg-primary hover:text-primary-foreground px-8 py-6 text-lg font-medium rounded-xl transition-all duration-300 hover:scale-[1.02] w-full sm:w-auto"
-                onClick={() => window.open('https://wa.me/5500000000000', '_blank')}
+                onClick={() => window.open('https://wa.me/5593992397727', '_blank')}
               >
                 <MessageCircle className="w-5 h-5 mr-2" />
                 Quero falar no WhatsApp
