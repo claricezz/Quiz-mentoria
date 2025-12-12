@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { Check, MessageCircle, ShoppingBag } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import heroMain from "@/assets/IMG_4231.jpg";
-
+import metodoImg from "@/assets/curso.png"
 import {
   Accordion,
   AccordionContent,
@@ -103,6 +103,24 @@ export function QuizResult() {
               </p>
             </div>
           </motion.div>
+            {/* Method Visual */}
+            <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: 0.25, duration: 0.6 }}
+                className="mb-12"
+            >
+                <div className="bg-card rounded-2xl p-4 md:p-6 shadow-soft">
+                    <img
+                        src={metodoImg}
+                        alt="Estrutura do método da mentoria"
+                        className="w-full rounded-xl object-cover"
+                    />
+                    <p className="text-sm text-text-soft text-center mt-4">
+                        Uma estrutura pensada para te conduzir do início até a venda com clareza e método.
+                    </p>
+                </div>
+            </motion.div>
 
           {/* Benefits */}
           <motion.div
