@@ -58,7 +58,7 @@ export function QuizIntro() {
                         {/* MINI-BIO DE AUTORIDADE */}
                         <p className="text-sm text-[#8C7B65] max-w-md mx-auto">
                             Ajuadando pessoas comuns a construírem renda real no digital,
-                            com clareza, leveza e passos simples — sem promessas milagrosas.
+                            com clareza, leveza e passos simples. Sem promessas milagrosas.
                         </p>
                     </div>
 
@@ -75,8 +75,8 @@ export function QuizIntro() {
 
                         <p>
                             Tenho 22 anos, sou paraense e moro em Fortaleza.
-                            Entre estudos, treinos e dias corridos, sempre gostei de fazer uma pausa —
-                            especialmente na praia — para respirar e colocar os pensamentos em ordem.
+                            Entre estudos, treinos e dias corridos, sempre gostei de fazer uma pausa,
+                            especialmente na praia, para respirar e colocar os pensamentos em ordem.
                         </p>
 
                         <p>
@@ -87,14 +87,14 @@ export function QuizIntro() {
 
                         <p>
                             Se você também sente isso, esse quiz vai te ajudar a entender
-                            em que momento da jornada você está — e qual pode ser o próximo passo.
+                            em que momento da jornada você está, e qual pode ser o próximo passo.
                         </p>
 
                         <p>
                             Muitas pessoas se sentem presas em uma rotina que consome tempo, energia e sonhos.
                         </p>
                         <p>
-                            Mas existe um caminho mais leve — onde você cria sua própria liberdade e constrói algo seu.
+                            Mas existe um caminho mais leve, onde você cria sua própria liberdade e constrói algo seu.
                         </p>
                         <p className="font-medium text-[#3A2A1F]">
                             Antes de te mostrar esse caminho, precisamos entender qual é o seu momento.
@@ -173,7 +173,7 @@ export function QuizIntro() {
                     >
 
                         <p className="text-sm md:text-base text-[#6B5B4E] mb-4">
-                            Um quiz rápido com 8 perguntas — leva menos de 3 minutos.
+                            Um quiz rápido com 8 perguntas, leva menos de 3 minutos.
                         </p>
 
                         <Button

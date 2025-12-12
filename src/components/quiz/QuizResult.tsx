@@ -64,7 +64,7 @@ export function QuizResult() {
               Dá pra ver que você não precisa de mais teorias, motivação ou "promessas fáceis".
             </h1>
             <p className="text-lg text-text-soft leading-relaxed">
-              Você precisa de um caminho real, guiado e possível para a sua rotina — algo que te coloque em prática sem você sentir que está sozinha.
+              Você precisa de um caminho real, guiado e possível para a sua rotina, algo que te coloque em prática sem você sentir que está sozinha.
             </p>
           </motion.div>
 
@@ -96,7 +96,7 @@ export function QuizResult() {
                 E a boa notícia é que existe exatamente isso.
               </p>
               <p className="text-text-soft leading-relaxed">
-                Uma mentoria que te entrega o caminho claro, direto e possível para quem quer entrar no digital com segurança — mesmo começando do zero.
+                Uma mentoria que te entrega o caminho claro, direto e possível para quem quer entrar no digital com segurança, mesmo começando do zero.
               </p>
               <p className="text-text-soft leading-relaxed">
                 Nela, você aprende passo a passo, no seu ritmo, tudo que realmente importa para quem quer começar certo:
@@ -155,7 +155,7 @@ export function QuizResult() {
             className="bg-secondary/50 rounded-xl p-6 mb-10"
           >
             <p className="text-text-soft text-sm leading-relaxed">
-              Tudo isso sem promessas de dinheiro fácil, porque seus resultados dependem da sua dedicação — mas você terá um método que evita perda de tempo e te coloca na direção certa desde o início.
+              Tudo isso sem promessas de dinheiro fácil, porque seus resultados dependem da sua dedicação, mas você terá um método que evita perda de tempo e te coloca na direção certa desde o início.
             </p>
           </motion.div>
 
@@ -180,7 +180,7 @@ export function QuizResult() {
                 E, para tornar seu início ainda mais estruturado, você recebe um <span className="text-foreground font-medium">brinde exclusivo</span>: uma página de vendas personalizada, criada pela nossa especialista em TI, já configurada com o seu link de afiliado.
               </p>
               <p className="text-foreground font-medium">
-                É uma combinação pensada para te dar segurança, apoio e um ponto de partida sólido — sem que você tenha que enfrentar tudo sozinha.
+                É uma combinação pensada para te dar segurança, apoio e um ponto de partida sólido, sem que você tenha que enfrentar tudo sozinha.
               </p>
             </div>
           </motion.div>
